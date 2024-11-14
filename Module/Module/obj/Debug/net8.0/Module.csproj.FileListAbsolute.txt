@@ -1,0 +1,42 @@
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\bin\Debug\net8.0\Module.exe
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\bin\Debug\net8.0\Module.deps.json
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\bin\Debug\net8.0\Module.runtimeconfig.json
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\bin\Debug\net8.0\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\bin\Debug\net8.0\Module.pdb
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.AssemblyInfoInputs.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.AssemblyInfo.cs
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.csproj.CoreCompileInputs.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\refint\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.pdb
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\Module.genruntimeconfig.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\SourceCode\Module\Module\obj\Debug\net8.0\ref\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\bin\Debug\net8.0\Module.exe
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\bin\Debug\net8.0\Module.deps.json
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\bin\Debug\net8.0\Module.runtimeconfig.json
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\bin\Debug\net8.0\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\bin\Debug\net8.0\Module.pdb
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.AssemblyInfoInputs.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.AssemblyInfo.cs
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.csproj.CoreCompileInputs.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\refint\Module.dll
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.pdb
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\Module.genruntimeconfig.cache
+D:\OOP\Đồ Án Cuối Kì\Module Quản lý dịch vụ lưu trú của một tập đoàn doanh nghiệp\Module\Module\obj\Debug\net8.0\ref\Module.dll
+D:\Module_update1\Module\Module\bin\Debug\net8.0\Module.exe
+D:\Module_update1\Module\Module\bin\Debug\net8.0\Module.deps.json
+D:\Module_update1\Module\Module\bin\Debug\net8.0\Module.runtimeconfig.json
+D:\Module_update1\Module\Module\bin\Debug\net8.0\Module.dll
+D:\Module_update1\Module\Module\bin\Debug\net8.0\Module.pdb
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.AssemblyInfoInputs.cache
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.AssemblyInfo.cs
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.csproj.CoreCompileInputs.cache
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.dll
+D:\Module_update1\Module\Module\obj\Debug\net8.0\refint\Module.dll
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.pdb
+D:\Module_update1\Module\Module\obj\Debug\net8.0\Module.genruntimeconfig.cache
+D:\Module_update1\Module\Module\obj\Debug\net8.0\ref\Module.dll

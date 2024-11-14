@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Module_update1\\Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\menufeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\menufeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\cruiseship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\cruiseship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\commonaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\commonaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\reservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\reservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\luxuryaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\luxuryaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\resort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\resort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|d:\\module_update1\\module\\module\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DA7B3-00A8-4DA4-90C6-63F1A3704397}|Module\\Module.csproj|solutionrelative:module\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuFeature.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\MenuFeature.cs",
+              "RelativeDocumentMoniker": "Module\\MenuFeature.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\MenuFeature.cs",
+              "RelativeToolTip": "Module\\MenuFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:54:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CruiseShip.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\CruiseShip.cs",
+              "RelativeDocumentMoniker": "Module\\CruiseShip.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\CruiseShip.cs",
+              "RelativeToolTip": "Module\\CruiseShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:09:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Villa.cs",
+              "RelativeDocumentMoniker": "Module\\Villa.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Villa.cs",
+              "RelativeToolTip": "Module\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:52:15.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LuxuryAccommodation.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\LuxuryAccommodation.cs",
+              "RelativeDocumentMoniker": "Module\\LuxuryAccommodation.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\LuxuryAccommodation.cs",
+              "RelativeToolTip": "Module\\LuxuryAccommodation.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:25:15.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationSystem.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\ReservationSystem.cs",
+              "RelativeDocumentMoniker": "Module\\ReservationSystem.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\ReservationSystem.cs",
+              "RelativeToolTip": "Module\\ReservationSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:57:41.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Reservation.cs",
+              "RelativeDocumentMoniker": "Module\\Reservation.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Reservation.cs",
+              "RelativeToolTip": "Module\\Reservation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:57:14.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Hotel.cs",
+              "RelativeDocumentMoniker": "Module\\Hotel.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Hotel.cs",
+              "RelativeToolTip": "Module\\Hotel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:40:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Homestay.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Homestay.cs",
+              "RelativeDocumentMoniker": "Module\\Homestay.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Homestay.cs",
+              "RelativeToolTip": "Module\\Homestay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:01:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resort.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Resort.cs",
+              "RelativeDocumentMoniker": "Module\\Resort.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Resort.cs",
+              "RelativeToolTip": "Module\\Resort.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:32:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Program.cs",
+              "RelativeDocumentMoniker": "Module\\Program.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Program.cs*",
+              "RelativeToolTip": "Module\\Program.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwHMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:59:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonAccommodation.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\CommonAccommodation.cs",
+              "RelativeDocumentMoniker": "Module\\CommonAccommodation.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\CommonAccommodation.cs",
+              "RelativeToolTip": "Module\\CommonAccommodation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:21:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Room.cs",
+              "RelativeDocumentMoniker": "Module\\Room.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Room.cs",
+              "RelativeToolTip": "Module\\Room.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAArwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:08:17.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "D:\\Module_update1\\Module\\Module\\Accommodation.cs",
+              "RelativeDocumentMoniker": "Module\\Accommodation.cs",
+              "ToolTip": "D:\\Module_update1\\Module\\Module\\Accommodation.cs",
+              "RelativeToolTip": "Module\\Accommodation.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:00:19.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
